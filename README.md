@@ -1,4 +1,6 @@
-![fat-horse](https://github.com/user-attachments/assets/376a269a-82e0-4755-9f68-23ce501dde02)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/376a269a-82e0-4755-9f68-23ce501dde02" alt="fat-horse" width="200"/>
+</p>
 <h1 align="center" style="font-weight: 700; color: #2c3e50;">Nguyễn Duy Khánh</h1>
 
 <p align="center" style="font-size: 1.2rem; color: #34495e;">
