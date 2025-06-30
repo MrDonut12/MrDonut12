@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td style="padding: 12px; font-weight: 600;">Tools & Platforms</td>
-      <td style="padding: 12px;">Git, VS Code, Pycharm, Jenkins</td>
+      <td style="padding: 12px;">Git, VS Code, Pycharm, Jenkins, Docker</td>
     </tr>
     <tr style="background-color: #ecf0f1;">
       <td style="padding: 12px; font-weight: 600;">Exploring</td>
