@@ -30,7 +30,7 @@
   <tbody>
     <tr style="background-color: #ecf0f1;">
       <td style="padding: 12px; font-weight: 600;">Languages</td>
-      <td style="padding: 12px;">Jack, C/C++, Python, Verilog, HTML5/CSS, Python</td>
+      <td style="padding: 12px;">Lua, C/C++, Python, HTML5/CSS, Python, Javascript</td>
     </tr>
     <tr>
       <td style="padding: 12px; font-weight: 600;">Tools & Platforms</td>
