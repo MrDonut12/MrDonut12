@@ -14,8 +14,9 @@
 
 - 👨‍🎓 Currently pursuing a degree in **Software Engineering** at **FPT University 🇻🇳**
 - 🎯 Passionate about building **efficient**, **maintainable** software solutions
-- 🎮 Love to create interactive projects with **Unity + C#**
+- 🎮 Love to create interactive projects with **Unity + C#** and **Roblox Studio**
 - 📚 Organized & productive using **Notion** for knowledge and project management
+- 📊 Recently completed multiple modules in **Data Analysis**, working with SQL, Power BI, and AI
 
 ---
 
@@ -27,6 +28,7 @@
 | **Frameworks / Engines** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Roblox](https://img.shields.io/badge/Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 | **Productivity**      | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
+| **Data Analysis**     | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-000000?style=flat&logo=data&logoColor=white) ![AI](https://img.shields.io/badge/AI-0088CC?style=flat&logo=openai&logoColor=white) |
 | **Exploring**         | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=white) |
 
 ---
@@ -42,6 +44,16 @@
 ## 🏆 Open Source Contributions *(Coming Soon)*
 
 > 🚧 This section is under construction! Stay tuned for featured repositories, tools, and real-world projects.
+
+---
+
+## 📈 Data Analysis Journey
+
+I've completed 3 certified modules in the **Data Analysis** track, covering:
+
+- 📌 Fundamentals: SQL, OLAP/OLTP, dashboard design, business insight analysis  
+- 📊 Visualization: Power BI, Power Query, DAX, business-oriented dashboards  
+- 🤖 AI & Forecasting: Applied machine learning and AI for predictive analysis 
 
 ---
 
