@@ -1,60 +1,50 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/376a269a-82e0-4755-9f68-23ce501dde02" alt="fat-horse" width="200"/>
-</p>
-<h1 align="center" style="font-weight: 700; color: #2c3e50;">Nguyễn Duy Khánh</h1>
-
-<p align="center" style="font-size: 1.2rem; color: #34495e;">
-  🎓 Software Engineering Student | 💻 Aspiring Developer | 📚 Lifelong Learner
+  <img src="https://github.com/user-attachments/assets/376a269a-82e0-4755-9f68-23ce501dde02" alt="avatar" width="200"/>
 </p>
 
-<hr style="border: 1px solid #ecf0f1;" />
-
-<h2 style="color: #2980b9;">🧑‍💻 About Me</h2>
-
-<ul style="line-height: 1.8; font-size: 1rem; color: #2c3e50;">
-  <li>👨‍🎓 Currently pursuing a degree in Software Engineering at <strong>FPT University 🇻🇳</strong></li>
-  <li>🎯 Passionate about building efficient, maintainable software solutions</li>
-</ul>
-
-<hr style="border: 1px solid #ecf0f1;" />
-
-<h2 style="color: #2980b9;">🚀 Tech Stack</h2>
-
-<table align="center" style="width: 60%; margin: 0 auto; border-collapse: collapse; font-size: 1rem;">
-  <thead>
-    <tr style="background-color: #2980b9; color: white;">
-      <th style="padding: 12px;">Category</th>
-      <th style="padding: 12px;">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #ecf0f1;">
-      <td style="padding: 12px; font-weight: 600;">Languages</td>
-      <td style="padding: 12px;">Lua, C/C++, Python, HTML5/CSS, Python, Javascript</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; font-weight: 600;">Tools & Platforms</td>
-      <td style="padding: 12px;">Git, VS Code, Pycharm, Jenkins, Docker</td>
-    </tr>
-    <tr style="background-color: #ecf0f1;">
-      <td style="padding: 12px; font-weight: 600;">Exploring</td>
-      <td style="padding: 12px;">Java, JSON, Shell</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr style="border: 1px solid #ecf0f1;" />
-
-<h2 style="color: #2980b9; text-align: center;">📊 GitHub Stats</h2>
+<h1 align="center">Nguyễn Duy Khánh</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDonut12"&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  🎓 Software Engineering Student &nbsp;|&nbsp; 💻 Aspiring Developer &nbsp;|&nbsp; 📚 Lifelong Learner
 </p>
 
-<hr style="border: 1px solid #ecf0f1;" />
+---
 
-<h2 style="color: #2980b9;">🏆 Open Source Contributions</h2>
+## 🧑‍💻 About Me
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; border-radius: 8px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3><a href=
+- 👨‍🎓 Currently pursuing a degree in **Software Engineering** at **FPT University 🇻🇳**
+- 🎯 Passionate about building **efficient**, **maintainable** software solutions
+- 🎮 Love to create interactive projects with **Unity + C#**
+- 📚 Organized & productive using **Notion** for knowledge and project management
+
+---
+
+## 🚀 Tech Stack
+
+| Category              | Technologies                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| **Languages**         | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) |
+| **Frameworks / Engines** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Roblox](https://img.shields.io/badge/Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Productivity**      | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
+| **Exploring**         | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=white) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrDonut12&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+</p>
+
+---
+
+## 🏆 Open Source Contributions *(Coming Soon)*
+
+> 🚧 This section is under construction! Stay tuned for featured repositories, tools, and real-world projects.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
