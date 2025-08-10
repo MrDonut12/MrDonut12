@@ -44,18 +44,6 @@
 
 > 🚧 This section is under construction! Stay tuned for featured repositories, tools, and real-world projects.
 
----
-
-## 📈 Data Analysis Journey
-
-I've completed 3 certified modules in the **Data Analysis** track, covering:
-
-- 📌 Fundamentals: SQL, OLAP/OLTP, dashboard design, business insight analysis  
-- 📊 Visualization: Power BI, Power Query, DAX, business-oriented dashboards  
-- 🤖 AI & Forecasting: Applied machine learning and AI for predictive analysis 
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
