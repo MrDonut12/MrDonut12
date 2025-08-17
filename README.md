@@ -27,10 +27,15 @@
 |-----------------------|------------------------------------------------------------------------------|
 | **Languages**         | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) |
 | **Frameworks / Engines** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Roblox](https://img.shields.io/badge/Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Productivity**      | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
+| **Version Control**   | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-2684FF?style=flat&logo=sourcetree&logoColor=white) ![Unity Version Control](https://img.shields.io/badge/Unity%20Version%20Control-000000?style=flat&logo=unity&logoColor=white) |
+| **IDE & Editors**     | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) |
+| **CI/CD & DevOps**    | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Productivity**      | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
 | **Data Analysis**     | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-000000?style=flat&logo=data&logoColor=white) ![AI](https://img.shields.io/badge/AI-0088CC?style=flat&logo=openai&logoColor=white) |
----
+
+
+
+
 
 ## 📊 GitHub Stats
 
