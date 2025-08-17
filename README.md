@@ -8,8 +8,11 @@
   🎓 Software Engineering Student &nbsp;|&nbsp; 💻 Aspiring Developer &nbsp;|&nbsp; 📚 Lifelong Learner
 </p>
 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrDonut12&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+</p>
 
+---
 
 ## 🧑‍💻 About Me
 
@@ -33,9 +36,7 @@
 | **Productivity**      | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
 | **Data Analysis**     | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-000000?style=flat&logo=data&logoColor=white) ![AI](https://img.shields.io/badge/AI-0088CC?style=flat&logo=openai&logoColor=white) |
 
-
-
-
+---
 
 ## 📊 GitHub Stats
 
@@ -45,9 +46,17 @@
 
 ---
 
-## 🏆 Open Source Contributions *(Coming Soon)*
+## 🎮 Breakout Game (Contribution Graph)
 
-> 🚧 This section is under construction! Stay tuned for featured repositories, tools, and real-world projects.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+    <img alt="Breakout Game" src="images/breakout-light.svg" width="600">
+  </picture>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
