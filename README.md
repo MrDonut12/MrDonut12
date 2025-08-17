@@ -46,17 +46,6 @@
 
 ---
 
-## 🎮 Breakout Game (Contribution Graph)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-    <img alt="Breakout Game" src="images/breakout-light.svg" width="600">
-  </picture>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
