@@ -20,7 +20,7 @@
 - 🎯 Passionate about building **efficient**, **maintainable** software solutions
 - 🎮 Love to create interactive projects with **Unity + C#** and **Roblox Studio**
 - 📚 Organized & productive using **Notion** for knowledge and project management
-- 📊 Recently completed multiple modules in **Data Analysis**, working with SQL, Power BI, and AI
+- 📊 Recently completed multiple modules in **Data Analysis**, working with SQL, Power BI, and AI.
 
 ---
 
