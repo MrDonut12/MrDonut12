@@ -16,14 +16,32 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 Currently pursuing a degree in **Software Engineering** at **FPT University 🇻🇳**
-- 🎯 Passionate about building **efficient**, **maintainable** software solutions
-- 🎮 Love to create interactive projects with **Unity + C#** and **Roblox Studio**
-- 📚 Organized & productive using **Notion** for knowledge and project management
-- 📊 Recently completed multiple modules in **Data Analysis**, working with SQL, Power BI, and AI.
+- Currently pursuing a degree in **Software Engineering** at **FPT University 🇻🇳**
+- Passionate about building **efficient**, **maintainable** software solutions
+- Love to create interactive projects with **Unity + C#** and **Roblox Studio**
+- Organized & productive using **Notion** for knowledge and project management
+- Recently completed multiple modules in **Data Analysis**, working with SQL, Power BI, and AI.
 
 ---
+## 🏆 Achievements & Leadership  
+- **Second Prize** – Young Informatics Contest (District level - 2023)
+- **Consolation Prize** – Young Informatics Contest (Provincial level - 2023)
+- **Second Prize** – Provincial Informatics Olympiad (2023) - 17.15/20 points
+- **Lead – Community Projects** (Provincial Youth Innovation Contest - 2024)
+  - Led two community-driven projects for the provincial contest
+- **Founder** – Tech U Minh Club
+  - Founded and led a student-driven technology community with 50+ active members.
+  - Organized monthly algorithm and programming contests to strengthen the skills of the local competitive programming team.
+  - Took the initiative to design and lead training programs for the local informatics team, improving their performance in provincial and national competitions.
+- **50% Tuition Scholarship** – FPT University Admission (2024)
+- **ICPC Vietnam National Contest Participant** (2024)
+- **Problemsetter & Team Lead** – FCoder Club (2024 - present)
+   - Designed and reviewed algorithmic challenges for coding contests with 20+ participants
+   - Coordinated with judges & tech team to ensure contest quality and fairness
+- **President – FCoder Club** (2025)
+- Solved 400+ problems across platforms (Lqdoj, LeetCode, Codeforces, AtCoder, VNOI).
 
+---
 ## 🚀 Tech Stack  
 
 | Category              | Technologies                                                                 |
