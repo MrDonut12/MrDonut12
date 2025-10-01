@@ -28,7 +28,7 @@
 - **Second Prize** – Provincial Informatics Olympiad (2023) - 17.15/20 points
 - **Lead – Community Projects** (Provincial Youth Innovation Contest - 2024)
   - Led two community-driven projects for the provincial contest
-- **Founder** – Tech U Minh Club
+- **Founder – Tech U Minh Club** (2023 - 2024)
   - Founded and led a student-driven technology community with 50+ active members.
   - Organized monthly algorithm and programming contests to strengthen the skills of the local competitive programming team.
   - Took the initiative to design and lead training programs for the local informatics team, improving their performance in provincial and national competitions.
