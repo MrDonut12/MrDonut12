@@ -20,7 +20,6 @@
 - Passionate about building **efficient**, **maintainable** software solutions
 - Love to create interactive projects with **Unity + C#** and **Roblox Studio**
 - Organized & productive using **Notion** for knowledge and project management
-- Recently completed multiple modules in **Data Analysis**, working with SQL, Power BI, and AI.
 
 ---
 ## 🏆 Achievements & Leadership  
@@ -38,7 +37,6 @@
 - **Problemsetter & Team Lead** – FCoder Club (2024 - present)
    - Designed and reviewed algorithmic challenges for coding contests with 20+ participants
    - Coordinated with judges & tech team to ensure contest quality and fairness
-- **President – FCoder Club** (2025)
 - Solved 400+ problems across platforms (Lqdoj, LeetCode, Codeforces, AtCoder, VNOI).
 
 ---
