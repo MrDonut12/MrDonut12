@@ -37,6 +37,7 @@
 - **Problemsetter & Team Lead** – FCoder Club (2024 - present)
    - Designed and reviewed algorithmic challenges for coding contests with 20+ participants
    - Coordinated with judges & tech team to ensure contest quality and fairness
+- **Consolation Prize** — FALGO25 (Programming Arena - 2025)
 - Solved 400+ problems across platforms (Lqdoj, LeetCode, Codeforces, AtCoder, VNOI).
 
 ---
