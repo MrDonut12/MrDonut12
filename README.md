@@ -31,14 +31,19 @@
 - **Founder – Tech U Minh Club** (2023 - 2024)
   - Founded and led a student-driven technology community with 50+ active members.
   - Organized monthly algorithm and programming contests to strengthen the skills of the local competitive programming team.
-  - Took the initiative to design and lead training programs for the local informatics team, improving their performance in provincial and national competitions.
+  - Took the initiative to design and lead training programs for the local informatics team.
 - **50% Tuition Scholarship** – FPT University Admission (2024)
+- **Top 8** – FALGO24 (FPT University Cần Thơ, 2024) – Campus-level algorithm contest selecting top talents for the ACM/ICPC team.
 - **ICPC Vietnam National Contest Participant** (2024)
-- **Problemsetter & Team Lead** – FCoder Club (2024 - present)
-   - Designed and reviewed algorithmic challenges for coding contests with 20+ participants
-   - Coordinated with judges & tech team to ensure contest quality and fairness
-- **Top 5** — FALGO25 (Programming Arena - 2025)
-- Solved 400+ problems across platforms (Lqdoj, LeetCode, Codeforces, AtCoder, VNOI).
+- **President** – FCoder Club (FPT University Cần Thơ) (2025 – present)
+  - Led the university’s premier coding club, coordinating training, events, and competitions
+  - Fostered collaboration among 100+ student programmers and maintained contest preparation pipelines
+- **Problemsetter & Team Lead** – FCoder Club (2024 – present)
+  - Designed and reviewed algorithmic challenges for contests with 20+ participants
+  - Coordinated with judges & tech teams to ensure fairness and technical accuracy
+- **Top 5** – FALGO25 (FPT University Cần Thơ, 2025) – Campus-level algorithm contest selecting top talents for the ACM/ICPC team.
+- **Top 60** – ICPC Southern Provincial Contest (2025)
+- **Solved 400+ algorithmic problems** across multiple platforms (Lqdoj, LeetCode, Codeforces, AtCoder, VNOI)
 
 ---
 ## 🚀 Tech Stack  
