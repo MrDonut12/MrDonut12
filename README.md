@@ -23,17 +23,11 @@
 
 ---
 ## 🏆 Achievements & Leadership  
-- **Second Prize** – Young Informatics Contest (District level - 2023)
-- **Consolation Prize** – Young Informatics Contest (Provincial level - 2023)
-- **Second Prize** – Provincial Informatics Olympiad (2023) - 17.15/20 points
-- **Lead – Community Projects** (Provincial Youth Innovation Contest - 2024)
-  - Led two community-driven projects for the provincial contest
 - **Founder – Tech U Minh Club** (2023 - 2024)
   - Founded and led a student-driven technology community with 50+ active members.
   - Organized monthly algorithm and programming contests to strengthen the skills of the local competitive programming team.
   - Took the initiative to design and lead training programs for the local informatics team.
 - **50% Tuition Scholarship** – FPT University Admission (2024)
-- **Top 8** – FALGO24 (FPT University Cần Thơ, 2024) – Campus-level algorithm contest selecting top talents for the ACM/ICPC team.
 - **ICPC Vietnam National Contest Participant** (2024)
 - **President** – FCoder Club (FPT University Cần Thơ) (2025 – present)
   - Led the university’s premier coding club, coordinating training, events, and competitions
