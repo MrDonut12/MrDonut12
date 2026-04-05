@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/376a269a-82e0-4755-9f68-23ce501dde02" alt="avatar" width="200"/>
-</p>
-
 <h1 align="center">Nguyễn Duy Khánh</h1>
 
 <p align="center">
@@ -43,7 +39,7 @@
 - **Solved 400+ algorithmic problems** across multiple platforms (Lqdoj, LeetCode, Codeforces, AtCoder, VNOI)
 
 ---
-![3D Contrib](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contrib](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
 <p align="center">
