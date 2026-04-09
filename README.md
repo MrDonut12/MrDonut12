@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=mrdonutman2506006vn" alt="Codeforces">
   <img src="https://komarev.com/ghpvc/?username=MrDonut12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/MrDonut12?label=Followers&style=for-the-badge&color=2ecc71" />
   <img src="https://img.shields.io/github/stars/MrDonut12?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f1c40f" />
