@@ -10,10 +10,8 @@
   <img src="https://img.shields.io/github/followers/MrDonut12?label=Followers&style=for-the-badge&color=2ecc71" />
   <img src="https://img.shields.io/github/stars/MrDonut12?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f1c40f" />
 </p>
----
 
 ---
-
 ## 🧑‍💻 About Me
 
 - Currently pursuing a degree in **Software Engineering** at **FPT University 🇻🇳**
