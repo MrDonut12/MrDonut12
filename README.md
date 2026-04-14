@@ -16,7 +16,7 @@
 
 - Currently pursuing a degree in **Software Engineering** at **FPT University 🇻🇳**
 - Passionate about building **efficient**, **maintainable** software solutions
-- Love to create interactive projects with **Unity + C#** and **Roblox Studio**
+- Love to create interactive projects with **Unity + C#** and **RBX Engine**
 - Organized & productive using **Notion** for knowledge and project management
 
 ---
