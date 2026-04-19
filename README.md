@@ -1,7 +1,7 @@
 <h1 align="center">Nguyễn Duy Khánh</h1>
 
 <p align="center">
-  🎓 Software Engineering Student &nbsp;|&nbsp; 💻 Aspiring Developer &nbsp;|&nbsp; 📚 Lifelong Learner
+  Software Engineering Student &nbsp;|&nbsp;  Aspiring Developer &nbsp;|&nbsp;  Lifelong Learner
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@
 </p>
 
 ---
-## 🧑‍💻 About Me
+## About Me
 
-- Currently pursuing a degree in **Software Engineering** at **FPT University 🇻🇳**
-- Passionate about building **efficient**, **maintainable** software solutions
-- Love to create interactive projects with **Unity + C#** and **RBX Engine**
-- Organized & productive using **Notion** for knowledge and project management
+- **Software Engineering** student at **FPT University (Can Tho campus)**, building a strong foundation in programming and systems
+- **Founder of Tech U Minh Club** and currently **President of the FCoder Club**, with experience in organizing events and leading communities
+- Passionate about algorithms and logical thinking, continuously improving through practice and real-world projects
+- Aspiring **Fullstack Developer**, focused on building end-to-end products with solid backend systems and user-friendly interfaces
 
 ---
-## 🏆 Achievements & Leadership  
+## Achievements & Leadership  
 - **Founder – Tech U Minh Club** (2023 - 2024)
   - Founded and led a student-driven technology community with 50+ active members.
   - Organized monthly algorithm and programming contests to strengthen the skills of the local competitive programming team.
